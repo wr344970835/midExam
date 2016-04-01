@@ -1,0 +1,1 @@
+{"classes":[{"testCases":[{"failureMessage":"expected:<[2, 1.667]> but was:<[2.0, 1.6666666666666667]>","success":"0","methodName":"testFCFS"},{"failureMessage":"expected:<[2.333, 1.333]> but was:<[2.3333333333333335, 1.3333333333333333]>","success":"0","methodName":"testSJF"}],"className":"ScheduleTest"}],"totalNum":2,"proName":"Schedule","successNum":0,"failureNum":2}

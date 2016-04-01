@@ -1,0 +1,1 @@
+{"<Schedule: void <init>()>":{"ScheduleTest : testFCFS":[0],"ScheduleTest : testSJF":[0]},"<Work: void <init>(java.lang.String,int,int)>":{"ScheduleTest : testFCFS":[0,0,0,0,0,0],"ScheduleTest : testSJF":[0,0,0,0,0,0]}}
